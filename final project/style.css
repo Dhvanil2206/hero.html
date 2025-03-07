@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+/* hero section css starts */
+.hero_section {
+  background-color: rgba(0, 0, 0, 0.565);
+  background-blend-mode: overlay;
+  background-image: url("images/hero-bg.jpg");
+  width: 100%;
+}
+.hero_section_part2 {
+  padding: 150px;
+  height: 90vh;
+}
+/* hero section css ends */
+
+/* section 2 css starts */
+.section_2_content {
+  height: 45vh;
+  position: relative;
+  top: 38px;
+  left: -45px;
+}
+/*  section 2 css ends */
+
+/*  section 3 css starts */
+
+/*  section 3 css ends */
